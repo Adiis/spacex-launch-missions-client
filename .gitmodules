@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Adiis/spacex_launch_missions_client.git
